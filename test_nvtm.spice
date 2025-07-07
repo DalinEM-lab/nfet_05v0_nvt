@@ -1,0 +1,6 @@
+* NGSPICE file created from test_nvtm.ext - technology: sky130A
+
+.subckt test_nvtm
+X0 vb3 Vd vb3 Vd sky130_fd_pr__nfet_05v0_nvt ad=0.29 pd=2.58 as=0.58 ps=5.16 w=1 l=10
+.ends
+
